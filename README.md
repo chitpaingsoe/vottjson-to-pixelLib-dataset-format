@@ -1,4 +1,4 @@
-# vottjson-to-pixelLib-dataset-format
+# Vottjson-to-pixelLib-dataset-format
 
 ## Usage:
  python converter.py [input-path] [output-path]
