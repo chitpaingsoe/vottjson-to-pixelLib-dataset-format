@@ -1,7 +1,7 @@
 # vottjson-to-pixelLib-dataset-format
 
-Usage:
+## Usage:
  python converter.py [input-path] [output-path]
  
-Example:
+## Example:
  python converter.py D:\ML\SampleProject\sample-export.json D:\Release\SampleModel
